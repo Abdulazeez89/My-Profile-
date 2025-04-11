@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
     '<header>'
-        <title>My Profile</title> <br>
-        <body>
+        <title>My Profile</title> 
+        '<body>
             '<menu>'
-             <head>About Me</head> <br>
-             <head>Hobbies</head>  <br>
-             <head>Contact</head>
+             <h1>About Me</h1> 
+             <h2>Hobbies</h2>  
+             <h3>Contact</h3>
             '</menu>'
             '<section>
-                '<p> I ISIAKA Abdulazeez Alao and graduated at the University of Ilorin aka a better by far University that studied Biology Education then get started on Tech as back as 2020 during pandemic virus</p>'
+                '<p>' I ISIAKA Abdulazeez Alao and graduated at the University of Ilorin aka a better by far University that studied Biology Education then get started on Tech as back as 2020 during pandemic virus'</p>'
                 '<img src="https://aare.jpg" alt="My Photo">'
             </section>'
             '<nav>'
@@ -23,10 +23,10 @@
             '<li>Playing</li>'
                </ul>'
             '</nav>'
-        </body>
-            </header>'
+        </body>'
+            '</header>'
     '<footer>
-        '<ul>EmailAddress: '<a href="aarebdulazeez@gmil.com"</a>'</ul>'
+        '<ul>EmailAddress: '<a href="aarebdulazeez@gmail.com"</a>'</ul>'
         '<ul>LinkedIn: '<a href="www.linkedin.com/in/mylinkedinprofile"</a>'</ul>'
     </footer>'
 </html>
